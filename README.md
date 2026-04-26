@@ -3,6 +3,10 @@
 
 ---
 
+Video Link : https://www.linkedin.com/posts/zain-khan-509b77269_ai-computervision-machinelearning-ugcPost-7418966538738831360-2ktR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEHYvRkBcWGYoJwRXUHKYLrUQ2dmxuGgNzU
+
+---
+
 ## 📌 Overview
 
 Traditional vehicle inspections can be slow, subjective, and hard to standardize across different operators and environments.  
