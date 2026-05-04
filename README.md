@@ -233,8 +233,3 @@ If you are a recruiter or collaborator and want a deeper technical walkthrough, 
 **LinkedIn:** *https://www.linkedin.com/in/zain-khan-509b77269/*  
 **Email:** *Zaynkhan1118@gmail.com*
 
----
-
-## 📄 License
-
-Specify your preferred license here (e.g., MIT, Apache-2.0, or proprietary evaluation license).
